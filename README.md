@@ -1,2 +1,2 @@
 # uthreads
-A user-level-threads system, linux like written in cpp
+A linux user-level-threads system like, written in cpp
